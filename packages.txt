@@ -1,4 +1,3 @@
-# For building the 'av' package and other dependencies
 pkg-config
 ffmpeg
 libavformat-dev
